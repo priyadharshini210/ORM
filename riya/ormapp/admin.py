@@ -1,3 +1,3 @@
 from django.contrib import admin
-from .models import Book,BookAdmin
-admin.site.register(Book,BookAdmin)  
+from .models import book,bookAdmin
+admin.site.register(book,bookAdmin)
